@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @web-wizard-web
+- 👋 Hi, I’m Gayatri Butkar
 - 👀 I’m interested to dive into the world of coding
 - 🌱 I’m currently learning JAVA
 - 
