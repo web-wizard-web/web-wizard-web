@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Gayatri Butkar
 - 👀 I’m interested to dive into the world of coding
-- 🌱 I’m currently learning JAVA
-- 
-  
-- 
+- 🌱 I’m currently learning Fullstack web Development
+- Linkedin-Gayatri Butkar
 - ⚡ Fun fact: ...I aint that funny
 
 <!---
