@@ -7,3 +7,10 @@
     I am Gayatri Butkar an aspiring IT student currently learning Web Development, Java and Python.⚓
   </text>
 </svg>
+
+# 🚀 My Projects
+
+## 🤖 AI & Machine Learning
+- [AI Project 1](https://github.com/your-username/project3) - Description of AI project.
+
+
