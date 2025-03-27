@@ -13,4 +13,10 @@
 ## 🤖 AI & Machine Learning
 - [AI Project 1](https://github.com/web-wizard-web/Spam-Ham_Classifier) - This is a spam-ham classifier that detects whether your meassge is spam or ham(not spam).
 
+## 🌐 Web Development
+- [Project 1]() 
+- [Project 2]()  
+
+  
+
 
