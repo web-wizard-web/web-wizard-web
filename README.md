@@ -14,8 +14,8 @@
 - [AI Project 1](https://github.com/web-wizard-web/Spam-Ham_Classifier) - This is a spam-ham classifier that detects whether your meassge is spam or ham(not spam).
 
 ## 🌐 Web Development
-- [Project 1](https://github.com/web-wizard-web/Expense_Tracker) 
-- [Project 2]()  
+- [Expense Tracker](https://github.com/web-wizard-web/Expense_Tracker) 
+- [Login_page]()  
 
   
 
