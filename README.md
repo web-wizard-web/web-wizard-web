@@ -11,6 +11,6 @@
 # 🚀 My Projects
 
 ## 🤖 AI & Machine Learning
-- [AI Project 1](https://github.com/web-wizard-web/Spam-Ham_Classifier) - This is a spam-ham classifier that detects whether your meassge is apm or not (not spam).
+- [AI Project 1](https://github.com/web-wizard-web/Spam-Ham_Classifier) - This is a spam-ham classifier that detects whether your meassge is spam or ham(not spam).
 
 
