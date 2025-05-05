@@ -6,7 +6,7 @@
 
 I'm Gayatri Butkar, an aspiring IT student passionate about Web Development, Python, Java, AI and Machine Learning. I love building projects, solving problems, and constantly learning new technologies.
 
-Email - butkargayatri693@gmail.com
+**Email** - butkargayatri693@gmail.com
 
 # 🛠️ Tech Stack
 
