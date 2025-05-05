@@ -11,7 +11,7 @@
 # 🚀 My Projects
 
 ## 🤖 AI & Machine Learning
-- [Python basics](https://github.com/web-wizard-web/Spam-Ham_Classifier) - This repo contains all the basics of python for AI and ML.
+- [Python basics](https://github.com/web-wizard-web/Python_for_AI_and_ML) - This repo contains all the basics of python for AI and ML.
 
 - [spam_ham_classifier](https://github.com/web-wizard-web/Spam-Ham_Classifier) - This is a spam-ham classifier that detects whether your meassge is spam or ham(not spam).
 
