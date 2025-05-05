@@ -11,11 +11,10 @@
 # 🚀 My Projects
 
 ## 🤖 AI & Machine Learning
-- [AI Project 1](https://github.com/web-wizard-web/Spam-Ham_Classifier) - This is a spam-ham classifier that detects whether your meassge is spam or ham(not spam).
+- [Python basics](https://github.com/web-wizard-web/Spam-Ham_Classifier) - This repo contains all the basics of python for AI and ML.
 
-## 🌐 Web Development
-- [Expense Tracker](https://github.com/web-wizard-web/Expense_Tracker) 
-- [Login_page]()  
+- [spam_ham_classifier](https://github.com/web-wizard-web/Spam-Ham_Classifier) - This is a spam-ham classifier that detects whether your meassge is spam or ham(not spam).
+
 
   
 
