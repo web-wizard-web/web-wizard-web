@@ -3,10 +3,17 @@
   <text x="10" y="50" font-family="Arial" font-size="40" fill="red">
     Hello, GitHub! 🚀
   </text>
-  <text x="10" y="80">
-    I am Gayatri Butkar an aspiring IT student currently learning Web Development, Java and Python.⚓
-  </text>
-</svg>
+
+ ### 👩‍💻 About Me
+
+I'm Gayatri Butkar, an aspiring IT student passionate about Web Development, Python, Java, AI and Machine Learning. I love building projects, solving problems, and constantly learning new technologies.
+
+### 🛠️ Tech Stack
+
+- **Languages:** Java, Python, JavaScript, HTML, CSS  
+- **Frameworks/Libraries:** Bootstrap, NumPy, Pandas  
+- **Tools:** Git, GitHub, VS Code, Jupyter Notebook
+
 
 ### 🤝 Connect with me:
 
@@ -20,6 +27,12 @@
 - [Python basics](https://github.com/web-wizard-web/Python_for_AI_and_ML) - This repo contains all the basics of python for AI and ML.
 
 - [spam_ham_classifier](https://github.com/web-wizard-web/Spam-Ham_Classifier) - This is a spam-ham classifier that detects whether your meassge is spam or ham(not spam).
+
+
+### 📊 GitHub Stats
+
+![Gayatri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=web-wizard-web&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=web-wizard-web&layout=compact&theme=radical)
 
 
   
