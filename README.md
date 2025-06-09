@@ -10,8 +10,8 @@ I'm Gayatri Butkar, an aspiring IT student passionate about Web Development, Pyt
 
 # 🛠️ Tech Stack
 
-- **Languages:** Java, Python, JavaScript, HTML, CSS  
-- **Frameworks/Libraries:** Bootstrap, NumPy, Pandas  
+- **Languages:** Java, Python, HTML, C , C++   
+- **Frameworks/Libraries:**  NumPy, Pandas , Seaborn , Matplotlib  
 - **Tools:** Git, GitHub, VS Code, Jupyter Notebook
 
 
