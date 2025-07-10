@@ -20,6 +20,13 @@ I'm Gayatri Butkar, an aspiring IT student passionate about Web Development, Pyt
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayatri-butkar-621b91314/)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/gayatributkar14)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/web-wizard-web)
+## 🧠 My LeetCode Profile
+
+[![LeetCode](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)](https://leetcode.com/YOUR_USERNAME_HERE)
+
+🔗 [leetcode.com/YOUR_USERNAME_HERE](https://leetcode.com/YOUR_USERNAME_HERE)
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_USERNAME_HERE?theme=dark&font=Karma&ext=activity)](https://leetcode.com/YOUR_USERNAME_HERE)
 
 # 🚀 My Projects
 
