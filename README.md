@@ -4,15 +4,16 @@
 
  # 👩‍💻 About Me
 
-I'm Gayatri Butkar, an aspiring IT student passionate about Web Development, Python, Java, AI and Machine Learning. I love building projects, solving problems, and constantly learning new technologies.
+I'm Gayatri Butkar, an aspiring IT student passionate about Data Sciene. I love building projects, solving problems, and constantly learning new technologies.
 
 **Email** - butkargayatri693@gmail.com
 
 # 🛠️ Tech Stack
 
 - **Languages:** Java, Python, HTML, C , C++   
-- **Frameworks/Libraries:**  NumPy, Pandas , Seaborn , Matplotlib  
+- **Frameworks/Libraries:**  NumPy, Pandas , Seaborn , Matplotlib 
 - **Tools:** Git, GitHub, VS Code, Jupyter Notebook
+- **Skills:** Feature Engineering , Data Exploration and Visualization
 
 
 # 🤝 Connect with me:
