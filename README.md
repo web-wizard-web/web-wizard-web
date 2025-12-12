@@ -12,7 +12,7 @@ I'm Gayatri Butkar, an aspiring IT student passionate about Data Sciene. I love 
 
 - **Languages:** Java, Python, HTML, C , C++   
 - **Frameworks/Libraries:**  NumPy, Pandas , Seaborn , Matplotlib 
-- **Tools:** Git, GitHub, VS Code, Jupyter Notebook
+- **Tools:** Git, GitHub, VS Code, Jupyter Notebook , power BI ,kaggle
 - **Skills:** Feature Engineering , Data Exploration and Visualization
 
 
