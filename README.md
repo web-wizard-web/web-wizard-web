@@ -1,42 +1,80 @@
+# 🌸 Hi, I'm Gayatri Butkar
 
-   # Hello, GitHub! 🚀
+### IT Student | DSA & AI Enthusiast
 
+I'm an aspiring IT professional passionate about problem-solving, Data Structures & Algorithms, Artificial Intelligence, and Data Science. I enjoy learning new technologies, building projects, and continuously improving my technical skills.
 
- # 👩‍💻 About Me
+---
 
-I'm Gayatri Butkar, an aspiring IT student passionate about Data Sciene. I love building projects, solving problems, and constantly learning new technologies.
+## 🛠️ Tech Stack
 
-**Email** - butkargayatri693@gmail.com
+### Languages
 
-# 🛠️ Tech Stack
+* Java
+* Python
+* C
+* C++
+* HTML
 
-- **Languages:** Java, Python, HTML, C , C++   
-- **Frameworks/Libraries:**  NumPy, Pandas , Seaborn , Matplotlib 
-- **Tools:** Git, GitHub, VS Code, Jupyter Notebook , power BI ,kaggle
-- **Skills:** Feature Engineering , Data Exploration and Visualization
+### Libraries & Tools
 
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
+* Power BI
+* Git
+* GitHub
+* VS Code
+* Jupyter Notebook
+* Kaggle
 
-# 🤝 Connect with me:
+### Skills
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayatri-butkar-621b91314/)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/gayatributkar14)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/web-wizard-web)
+* Data Analysis
+* Data Visualization
+* Exploratory Data Analysis (EDA)
+* Feature Engineering
+* Problem Solving
 
+---
 
-# 🚀 My Projects
+## 🤝 Connect With Me
 
-## 🤖 AI & Machine Learning
-- [Python basics](https://github.com/web-wizard-web/Python_for_AI_and_ML) - This repo contains all the basics of python for AI and ML.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/gayatri-butkar-621b91314/)
 
-- [spam_ham_classifier](https://github.com/web-wizard-web/Spam-Ham_Classifier) - This is a spam-ham classifier that detects whether your meassge is spam or ham(not spam).
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge\&logo=hackerrank\&logoColor=white)](https://www.hackerrank.com/profile/gayatributkar14)
 
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/Gayatri_Butkar/)
 
-# 📊 GitHub Stats
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/web-wizard-web)
 
-![Gayatri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=web-wizard-web&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=web-wizard-web&layout=compact&theme=radical)
+---
 
+## 📊 GitHub Stats
 
-  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=web-wizard-web\&show_icons=true\&theme=rose_pine\&hide_border=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=web-wizard-web\&layout=compact\&theme=rose_pine\&hide_border=true)
 
+---
+
+## 🏆 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Gayatri_Butkar?theme=light\&font=Baloo\&ext=contest)
+
+---
+
+## 🌱 Currently Learning
+
+* Data Structures & Algorithms
+* Java Development
+* Machine Learning
+* Artificial Intelligence
+* SQL
+
+---
+
+## ✨ Quote
+
+> *"The expert in anything was once a beginner."*
