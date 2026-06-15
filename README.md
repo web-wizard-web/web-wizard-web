@@ -53,9 +53,9 @@ I'm an aspiring IT professional passionate about problem-solving, Data Structure
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=web-wizard-web\&show_icons=true\&theme=rose_pine\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gayatri-Butkar\&show_icons=true\&theme=rose_pine\&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=web-wizard-web\&layout=compact\&theme=rose_pine\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gayatri-Butkar\&layout=compact\&theme=rose_pine\&hide_border=true)
 
 ---
 
